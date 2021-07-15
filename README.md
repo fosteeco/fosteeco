@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @fosteeco
+- 👀 I’m interested in ...
+Full stack development. Like to see the entire process unfold and create a system that suits specific needs
+- 🌱 I’m currently learning ...
+React, Gatsby, SQL, and node.
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+Feel free to email me @ [fosterchris000@gmail.com](mailto:fosterchris000@gmail.com?subject=Hello%20from%20Github%20)
+
+<!---
+fosteeco/fosteeco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
